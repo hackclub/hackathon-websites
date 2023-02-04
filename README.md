@@ -19,6 +19,7 @@ As you go about making your own hackathon's website, remember the value of origi
 | [assemble.hackclub.com](https://epoch.hackclub.com) | [`hackclub/www-assemble`](https://github.com/hackclub/www-assemble) | Aug. 2022 | San Francisco (USA) | [@bellesea](https://github.com/bellesea), [@maxwofford](https://github.com/maxwofford), [@sampoder](https://github.com/sampoder), [@YodaLightsabr](https://github.com/YodaLightsabr) et al. |
 | [zephyr.hackclub.com](https://zephyr.hackclub.com) | [`hackclub/all-aboard`](https://github.com/hackclub/all-aboard) | Jul. 2021 | Cross-Country (USA) | [@maxwofford](https://github.com/maxwofford), [@sampoder](https://github.com/sampoder), [@zfogg](https://github.com/zfogg) et al. |
 | [codeday.sg](https://codeday.sg) | [`sampoder/codeday-sg`](https://github.com/sampoder/codeday-sg) | Mar. 2022 | Singapore (SG) | [@sampoder](https://github.com/sampoder) |
+| [hackaustin.net](https://hackaustin.net) | [`hackaustin/hackaustin.net`](https://github.com/hackaustin/hackaustin.net) | Oct. 2022 | Austin, TX (USA) | [@reesericci](https://github.com/reesericci), [@sampoder](https://github.com/sampoder) |
 
 Looking for more guidance? Check out [@lachlanjc](https://github.com/lachlanjc)'s _[Making a hackathon website with Next.js, MDX, & Theme UI](https://notebook.lachlanjc.com/2019-09-06_making_a_hackathon_site)_!
 
