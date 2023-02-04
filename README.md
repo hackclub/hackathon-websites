@@ -14,12 +14,13 @@ As you go about making your own hackathon's website, remember the value of origi
 
 | Website | Repository  | Date  | Location | Creators |
 | --- | --- | --- | --- | --- |
+| [hackoc.org](https://hackoc.org) | [`hackoc/site`](https://github.com/hackoc/site) | Mar. 2023 | Orange County (USA) | [@YodaLightsabr](https://github.com/YodaLightsabr), [@Robertrover811](https://github.com/Robertrover811) |
 | [epoch.hackclub.com](https://epoch.hackclub.com) | [`hackclub/www-epoch`](https://github.com/hackclub/www-epoch) | Jan. 2023 | New Delhi (IN) | [@arashnrim](https://github.com/arashnrim), [@khalby786](https://github.com/khalby786), [@sampoder](https://github.com/sampoder), [@tejasag](https://github.com/tejasag) et al. |
 | [lioncityhacks.com](https://epoch.hackclub.com) | [`lioncityhacks/site`](https://github.com/lioncityhacks/site) | Dec. 2022 | Singapore (SG)  | [@sampoder](https://github.com/sampoder) |
 | [hackaustin.net](https://hackaustin.net) | [`hackaustin/hackaustin.net`](https://github.com/hackaustin/hackaustin.net) | Oct. 2022 | Austin, TX (USA) | [@reesericci](https://github.com/reesericci), [@sampoder](https://github.com/sampoder) |
 | [assemble.hackclub.com](https://epoch.hackclub.com) | [`hackclub/www-assemble`](https://github.com/hackclub/www-assemble) | Aug. 2022 | San Francisco (USA) | [@bellesea](https://github.com/bellesea), [@maxwofford](https://github.com/maxwofford), [@sampoder](https://github.com/sampoder), [@YodaLightsabr](https://github.com/YodaLightsabr) et al. |
-| [zephyr.hackclub.com](https://zephyr.hackclub.com) | [`hackclub/all-aboard`](https://github.com/hackclub/all-aboard) | Jul. 2021 | Cross-Country (USA) | [@maxwofford](https://github.com/maxwofford), [@sampoder](https://github.com/sampoder), [@zfogg](https://github.com/zfogg) et al. |
 | [codeday.sg](https://codeday.sg) | [`sampoder/codeday-sg`](https://github.com/sampoder/codeday-sg) | Mar. 2022 | Singapore (SG) | [@sampoder](https://github.com/sampoder) |
+| [zephyr.hackclub.com](https://zephyr.hackclub.com) | [`hackclub/all-aboard`](https://github.com/hackclub/all-aboard) | Jul. 2021 | Cross-Country (USA) | [@maxwofford](https://github.com/maxwofford), [@sampoder](https://github.com/sampoder), [@zfogg](https://github.com/zfogg) et al. |
 
 Looking for more guidance? Check out [@lachlanjc](https://github.com/lachlanjc)'s _[Making a hackathon website with Next.js, MDX, & Theme UI](https://notebook.lachlanjc.com/2019-09-06_making_a_hackathon_site)_!
 
