@@ -1,2 +1,29 @@
-# hackathon-websites
-💫 A directory of open-source hackathon websites.
+<h1 align="center">
+<p> 
+<img src="https://user-images.githubusercontent.com/39828164/216742489-4388d753-6b75-4865-bcec-7c3f6032cb83.png" width="600px" align="center" /> 
+</p>
+
+`hackathon-websites`
+
+</h1>
+
+Your hackathon's website is often the first part of your attendees' hacker experience. That said, making a hackathon website is tough! This repository is as a directory of open-source hackathon websites for organisers to take inspiration from. 
+
+As you go about making your own hackathon's website, remember the value of originality. The websites listed below are not templates, but rather sources of inspiration to spark your imagination. Your audience is ultimately hackers like yourself and they'll appreciate the effort.
+
+
+| Website | Repository  | Date  | Location | Creators |
+| --- | --- | --- | --- | --- |
+| [epoch.hackclub.com](https://epoch.hackclub.com) | [`hackclub/www-epoch`](https://github.com/hackclub/www-epoch) | Jan. 2023 | New Delhi (IN) | [@arashnrim](https://github.com/arashnrim), [@khalby786](https://github.com/khalby786), [@sampoder](https://github.com/sampoder), [@tejasag](https://github.com/tejasag) et al. |
+| [lioncityhacks.com](https://epoch.hackclub.com) | [`lioncityhacks/site`](https://github.com/lioncityhacks/site) | Dec. 2022 | Singapore (SG)  | [@sampoder](https://github.com/sampoder) |
+| [assemble.hackclub.com](https://epoch.hackclub.com) | [`hackclub/www-assemble`](https://github.com/hackclub/www-assemble) | Aug. 2022 | San Francisco (USA) | [@bellesea](https://github.com/bellesea), [@maxwofford](https://github.com/maxwofford), [@sampoder](https://github.com/sampoder), [@YodaLightsabr](https://github.com/YodaLightsabr) et al. |
+| [zephyr.hackclub.com](https://zephyr.hackclub.com) | [`hackclub/all-aboard`](https://github.com/hackclub/all-aboard) | Jul. 2021 | Cross-Country (USA) | [@maxwofford](https://github.com/maxwofford), [@sampoder](https://github.com/sampoder), [@zfogg](https://github.com/zfogg) et al. |
+| [codeday.sg](https://codeday.sg) | [`sampoder/codeday-sg`](https://github.com/sampoder/codeday-sg) | Mar. 2022 | Singapore (SG) | [@sampoder](https://github.com/sampoder) |
+
+## Contributing
+
+We'd love to have more websites in this collection! To submit your hackathon's website, please create a pull request and add it to the table above, following the format of the existing entries.
+
+Questions? Feel free to reach out to `@sampoder` on Slack or send an email to `sam@hackclub.com`.
+
+Thank you for your contribution!
