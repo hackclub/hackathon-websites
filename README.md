@@ -20,6 +20,8 @@ As you go about making your own hackathon's website, remember the value of origi
 | [zephyr.hackclub.com](https://zephyr.hackclub.com) | [`hackclub/all-aboard`](https://github.com/hackclub/all-aboard) | Jul. 2021 | Cross-Country (USA) | [@maxwofford](https://github.com/maxwofford), [@sampoder](https://github.com/sampoder), [@zfogg](https://github.com/zfogg) et al. |
 | [codeday.sg](https://codeday.sg) | [`sampoder/codeday-sg`](https://github.com/sampoder/codeday-sg) | Mar. 2022 | Singapore (SG) | [@sampoder](https://github.com/sampoder) |
 
+Looking for more guidance? Check out [@lachlanjc](https://github.com/lachlanjc)'s _[Making a hackathon website with Next.js, MDX, & Theme UI](https://notebook.lachlanjc.com/2019-09-06_making_a_hackathon_site)_!
+
 ## Contributing
 
 We'd love to have more websites in this collection! To submit your hackathon's website, please create a pull request and add it to the table above, following the format of the existing entries.
